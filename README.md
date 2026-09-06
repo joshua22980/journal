@@ -73,3 +73,8 @@ The check verifies the exact schedule and check-in language, required safety and
 tool-integrity text, and the structure and publishers of the evidence links. It
 does not require internet access, so a restricted CI proxy cannot turn source
 validation into a false failure.
+
+## How to Install and Use
+1. Copy the full text from [`PROMPT.md`](PROMPT.md).
+2. Paste it into your custom assistant or ChatGPT instructions.
+3. Replace `[REPLACE WITH IANA TIME ZONE]` with your local time zone (e.g., `America/Los_Angeles`).
